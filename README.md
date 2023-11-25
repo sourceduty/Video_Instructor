@@ -5,8 +5,6 @@
 #
 ### CHATGPT
 
-Custom prompt:
-
 ```
 Build a custom GPT named "YouTube Instructor".
 
@@ -22,9 +20,14 @@ Build a custom GPT named "YouTube Instructor".
 <br>
 Instructional video creation assistant.
 
+### HOW TO
+
+1. Plan and script a video recording. 
+2. Create instructions from the video recording.
+
 #
 ### COPYRIGHT
 
 Copyright (C) 2023, Sourceduty - All Rights Reserved.
-
+<br>
 THE CONTENTS OF THIS PROJECT ARE PROPRIETARY.
