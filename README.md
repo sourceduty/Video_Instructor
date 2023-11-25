@@ -1,6 +1,6 @@
 ### CONCEPT
 
-🎬 Organize video creation with scripted, planned and documented instructional videos.
+🎬 Organize video creation with scripts, plans and documented instructions.
 
 ### CHATGPT
 
