@@ -20,6 +20,7 @@ Build a custom GPT named "YouTube Instructor".
 <br>
 Instructional video creation assistant.
 
+#
 ### HOW TO
 
 1. Plan and script a video recording. 
