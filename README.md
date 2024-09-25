@@ -11,7 +11,7 @@ In addition to aiding in script and plan creation, the YouTube Instructor GPT ca
 #
 ### Related Links
 
-[ChatGPT]([Video Instructor](https://chat.openai.com/g/g-8uZmUQjZN-video-instructor))
+[ChatGPT](https://github.com/sourceduty/ChatGPT)
 
 ***
 Copyright (C) 2023, Sourceduty - All Rights Reserved.
